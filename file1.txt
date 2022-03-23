@@ -1,0 +1,3 @@
+This is the file of my git study. i like git and github.
+today we have an english session and we know that we have to learn english very well.
+python is a core thing in my new developer life.
